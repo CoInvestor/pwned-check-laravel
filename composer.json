@@ -24,8 +24,15 @@
     },
     "require": {
         "php": ">=7.0.0",
-        "square1/pwned-check": "^1.1"
+        "square1/pwned-check": "dev-master#d7c5258669600aef817f0887ea1ba31d8529d3f1"
     },
+     "repositories": [
+        {
+            "type": "vcs",
+            "name": "square1/pwned-check",
+            "url": "https://github.com/Xulai/pwned-check.git"
+        }
+    ],
     "extra": {
         "laravel": {
             "providers": [
