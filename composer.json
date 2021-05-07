@@ -30,7 +30,7 @@
         {
             "type": "vcs",
             "name": "square1/pwned-check",
-            "url": "https://github.com/Xulai/pwned-check.git"
+            "url": "https://github.com/CoInvestor/pwned-check.git"
         }
     ],
     "extra": {
